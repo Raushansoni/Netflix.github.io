@@ -12,7 +12,7 @@ body {
 }
 
 .main {
-   background-image: url("images/banner.jpg");
+   background-image: url("images/banner.JPG");
    background-position: center;
    background-size: max(1200px, 100vw);
    background-repeat: no-repeat;
